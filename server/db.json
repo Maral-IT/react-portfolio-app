@@ -1,0 +1,40 @@
+{
+  "'projects": [
+    {
+      "id": 1,
+      "title": "Gaming streaming portal",
+      "skills": ["React", "Node.js", "Mongo.db"],
+      "githubLink": "#"
+    },
+    {
+      "id": 2,
+      "title": "Video service",
+      "skills": ["React", "Node.js", "Mongo.db"],
+      "githubLink": "#"
+    },
+    {
+      "id": 3,
+      "title": "Video portal",
+      "skills": ["React", "Node.js", "Mongo.db"],
+      "githubLink": "#"
+    },
+    {
+      "id": 4,
+      "title": "Dating app",
+      "skills": ["React", "Node.js", "Mongo.db"],
+      "githubLink": "#"
+    },
+    {
+      "id": 5,
+      "title": "Landing",
+      "skills": ["React", "Node.js", "Mongo.db"],
+      "githubLink": "#"
+    },
+    {
+      "id": 6,
+      "title": "Gaming community",
+      "skills": ["React", "Node.js", "Mongo.db"],
+      "githubLink": "#"
+    }
+  ]
+}
