@@ -6,7 +6,7 @@ import lightIcon from "../assets/icons/sun.svg";
 
 function Header() {
   const [isDark, setIsDark] = useState(
-    JSON.parse(localStorage.getItem("darkMode")) || false
+   JSON.parse(localStorage.getItem("darkMode")) || false
   );
 
   useEffect(() => {
